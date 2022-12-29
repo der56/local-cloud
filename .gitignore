@@ -1,2 +1,8 @@
-node_modules
+*.log
+!production.log
+doc/*.txt
+doc/**/*.pdf
+index-linux
+index-macos
+index-win.exe
 package-lock.json
